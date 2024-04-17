@@ -1,0 +1,24 @@
+:root{
+
+    --branco-principal:white;
+    --cinza-secundario: gray;
+    --botao-azul: blue;
+    --cord-fundo: black;
+    }
+
+body{
+
+    background-color: black;
+    color:white;
+    font-size: 16px
+    font-weight: 400;
+}
+
+.principal {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?1=tbn:ANd9GcQH0qnR9ui8LVEqgDkuz3WohnmJ7AjJNLPtcg4mRX4TXpMf_")
+    
+    ]background-size: contain;
+    align-items: center;
+    text-align: center;
+}
+
